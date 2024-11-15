@@ -20,6 +20,6 @@ This project is a simple HTML and CSS web page that displays a "Color Vocabulary
 ## Live Preview
 
 Check out the live version of the project here:  
-[Motivational Meme Website](https://bootcamp-projects-2024.github.io/Color-Vocab/)
+[Color Vocabulary Website](https://bootcamp-projects-2024.github.io/Color-Vocab/)
 
 
