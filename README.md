@@ -19,6 +19,4 @@ This project is a simple HTML and CSS web page that displays a "Color Vocabulary
 
 ## Preview
 
-Here’s a screenshot of the page:
-
-![Color Vocabulary Preview](link-to-screenshot.png) <!-- Add a link to your screenshot image here -->
+![Color Vocabulary Preview](https://bootcamp-projects-2024.github.io/Color-Vocab/) 
