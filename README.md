@@ -17,6 +17,9 @@ This project is a simple HTML and CSS web page that displays a "Color Vocabulary
 1. Clone or download the repository.
 2. Open `index.html` in your browser to view the color vocabulary.
 
-## Preview
+## Live Preview
 
-![Color Vocabulary Preview](https://bootcamp-projects-2024.github.io/Color-Vocab/) 
+Check out the live version of the project here:  
+[Motivational Meme Website](https://bootcamp-projects-2024.github.io/Color-Vocab/)
+
+
